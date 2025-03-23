@@ -8,4 +8,4 @@ Foram utilizadas as seguintes linguagens:
 - CSS;
 - JavaScript.
 
-*Este projeto tem como sua licença a GPLv3+NIGGER. O modificador "+NIGGER" foi adicionado para que nenhuma empresa com um código de conduta possa utilizá-lo.*
+*Este projeto tem como sua licença a GPLv3.*
