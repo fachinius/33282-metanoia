@@ -1,0 +1,32 @@
+body
+{
+	background-color: #FDDF14;
+	color: #0B592E;
+
+	border: 1em solid #0B592E;
+	max-width:55em;
+	margin: 1em auto;
+	font:16px monospace;
+}
+
+marquee{background-color:#FDDF14;color:#0B592E;}
+a{color:#1F6F9C;text-decoration:none;}
+a:hover{color:#008000;text-decoration:underline;}
+p{text-indent:24px;}
+
+body
+{
+	margin: 1em auto;
+	padding:1em;
+	font:16px monospace;
+}
+
+
+/*
+a{color:#008000;text-decoration:none;}
+a:hover{color:#00ff00;text-decoration:underline;}
+p{text-indent:24px; padding:0 15px 0;}
+ul{color:#008000;list-style:'> ';text-align:start;}
+
+
+
