@@ -16,6 +16,8 @@ a:hover{color:#008000;text-decoration:underline;}
 p{text-indent:24px;}
 ul{list-style:'> ';}
 q{font-style: italic;}
+button{background-color:#000;color:#fff;border-color:#00ff00;cursor:pointer;}
+
 
 .marquee {
   height: 22px;
