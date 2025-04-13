@@ -4,19 +4,19 @@ body
 	color: #fff;
 
 	border-style: inset;
-	border-color: lime;
+	border-color: #0d5eaf;
 	max-width:55em;
 	margin: 1em auto;
 	padding:1em;
 	font:16px monospace;
 }
 
-a{color:#00ff00;text-decoration:none;}
-a:hover{color:#008000;text-decoration:underline;}
+a{color:#0d5eaf;text-decoration:none;}
+a:hover{color:#06305b;text-decoration:underline;}
 p{text-indent:24px;}
 ul{list-style:'> ';}
 q{font-style: italic;}
-button{background-color:#000;color:#fff;border-color:#00ff00;cursor:pointer;}
+button{background-color:#000;color:#fff;border-color:#0d5eaf;cursor:pointer;}
 
 
 .marquee {
