@@ -1,4 +1,4 @@
-METANOIA: O Websítio
+PAIDEIA: O Websítio
 ====================
 
 Este é um websítio desenvolvido como um trabalho escolar.
